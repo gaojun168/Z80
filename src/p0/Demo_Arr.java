@@ -95,6 +95,8 @@ public class Demo_Arr {
 		Arrays.sort(a);
 		for(int i: a) {
 			System.out.print(i+" ");
+			
+			
 	    }
 		
 
